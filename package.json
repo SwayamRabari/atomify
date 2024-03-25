@@ -2,7 +2,7 @@
   "name": "atomify",
   "displayName": "Atomify",
   "description": "Atom inspired dark and minimal theme for VS Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.87.0"
   },
