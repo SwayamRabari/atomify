@@ -30,7 +30,7 @@ Atomify embraces a dark, minimalist aesthetic. With a carefully chosen color pal
 
 ## We Value Your Feedback
 
-I value your feedback! If you've encountered any issues with Atomify, or have thoughts on how we can do better, please offer your feedback in a review.
+I value your feedback! If you've encountered any issues with Atomify, or have thoughts on how i can do better, please offer your feedback in a review.
 
 Happy Coding!
 

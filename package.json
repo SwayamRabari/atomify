@@ -7,7 +7,8 @@
     "vscode": "^1.87.0"
   },
   "repository": {
-
+    "type": "git",
+    "url": "https://github.com/SwayamRabari/atomify.git"
   },
   
   "publisher": "SwayamRabari",
@@ -17,18 +18,34 @@
     "Themes"
   ],
   "keywords": [
-    "atomify",
-    "theme",
-    "dark theme",
-    "atom",
-    "atom theme",
-    "dark color theme",
-    "focus theme",
-    "minimal theme",
-    "minimal",
-    "black theme",
-    "one dark pro"
-  ],
+  "atomify",
+  "theme",
+  "dark theme",
+  "atom",
+  "atom theme",
+  "dark color theme",
+  "focus theme",
+  "minimal theme",
+  "minimal",
+  "black theme",
+  "one dark pro",
+  "VS Code theme",
+  "VS Code extension",
+  "code editor theme",
+  "syntax highlighting",
+  "accessibility",
+  "high contrast",
+  "color blindness friendly",
+  "neumorphism",
+  "flat design",
+  "eye strain",
+  "distraction-free",
+  "productivity",
+  "Stack Overflow",
+  "GitHub",
+  "best dark theme VS Code",
+  "color theme web development"
+],
   "contributes": {
     "themes": [
       {
