@@ -1,0 +1,41 @@
+{
+  "name": "atomify",
+  "displayName": "Atomify",
+  "description": "Atom inspired dark and minimal theme for VS Code.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "repository": {
+
+  },
+  
+  "publisher": "SwayamRabari",
+  "license": "MIT",
+  "icon": "atomify.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "atomify",
+    "theme",
+    "dark theme",
+    "atom",
+    "atom theme",
+    "dark color theme",
+    "focus theme",
+    "minimal theme",
+    "minimal",
+    "black theme",
+    "one dark pro"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atom Dark Minimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Atom Dark Minimal-color-theme.json"
+      }
+    ]
+  }
+}
