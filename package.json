@@ -10,7 +10,6 @@
     "type": "git",
     "url": "https://github.com/SwayamRabari/atomify.git"
   },
-  
   "publisher": "SwayamRabari",
   "license": "MIT",
   "icon": "atomify.png",
@@ -18,40 +17,40 @@
     "Themes"
   ],
   "keywords": [
-  "atomify",
-  "theme",
-  "dark theme",
-  "atom",
-  "atom theme",
-  "dark color theme",
-  "focus theme",
-  "minimal theme",
-  "minimal",
-  "black theme",
-  "one dark pro",
-  "VS Code theme",
-  "VS Code extension",
-  "code editor theme",
-  "syntax highlighting",
-  "accessibility",
-  "high contrast",
-  "color blindness friendly",
-  "neumorphism",
-  "flat design",
-  "eye strain",
-  "distraction-free",
-  "productivity",
-  "Stack Overflow",
-  "GitHub",
-  "best dark theme VS Code",
-  "color theme web development"
-],
+    "atomify",
+    "theme",
+    "dark theme",
+    "atom",
+    "atom theme",
+    "dark color theme",
+    "focus theme",
+    "minimal theme",
+    "minimal",
+    "black theme",
+    "one dark pro",
+    "VS Code theme",
+    "VS Code extension",
+    "code editor theme",
+    "syntax highlighting",
+    "accessibility",
+    "high contrast",
+    "color blindness friendly",
+    "neumorphism",
+    "flat design",
+    "eye strain",
+    "distraction-free",
+    "productivity",
+    "Stack Overflow",
+    "GitHub",
+    "best dark theme VS Code",
+    "color theme web development"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "Atom Dark Minimal",
         "uiTheme": "vs-dark",
-        "path": "./themes/Atom Dark Minimal-color-theme.json"
+        "path": "./themes/atomify.json"
       }
     ]
   }
