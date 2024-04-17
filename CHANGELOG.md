@@ -1,9 +1,13 @@
-# Change Log
+## v1.0.3
 
-All notable changes to the "atom-dark" extension will be documented in this file.
+This release addresses all reported syntax highlighting issues for the Atomify theme.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+**Improvements:**
 
-## [Unreleased]
+- Fixed all syntax highlighting bugs for the Atomify theme.
 
-- Initial release
+**Users:**
+
+- If you were experiencing syntax highlighting problems with the Atomify theme, this update should resolve those issues.
+
+We recommend updating to this version to ensure the best possible experience.
